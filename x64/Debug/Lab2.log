@@ -1,0 +1,149 @@
+﻿  a.cpp
+C:\Users\gekko\Desktop\lab2\a.cpp(1,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\a.cpp(1,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+C:\Users\gekko\Desktop\lab2\a.cpp(14,39): error C3861: pow: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\a.cpp(14,58): error C3861: pow: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\a.cpp(14,69): error C2059: синтаксическая ошибка: ;
+  A.ixx
+C:\Users\gekko\Desktop\lab2\A.ixx(1,1): error C3378: объявление можно экспортировать только из блока интерфейса модуля
+C:\Users\gekko\Desktop\lab2\A.ixx(1,31): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\A.ixx(1,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+C:\Users\gekko\Desktop\lab2\A.ixx(1,33): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+  f1.cpp
+C:\Users\gekko\Desktop\lab2\f1.cpp(1,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\f1.cpp(4,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\f1.cpp(4,1): error C2086: int module: переопределение
+C:\Users\gekko\Desktop\lab2\f1.cpp(1,1): message : см. объявление "module"
+C:\Users\gekko\Desktop\lab2\f1.cpp(4,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+  F1.ixx
+C:\Users\gekko\Desktop\lab2\F1.ixx(1,1): error C3378: объявление можно экспортировать только из блока интерфейса модуля
+C:\Users\gekko\Desktop\lab2\F1.ixx(1,31): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\F1.ixx(1,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+C:\Users\gekko\Desktop\lab2\F1.ixx(1,34): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\F1.ixx(2,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "строка"
+C:\Users\gekko\Desktop\lab2\F1.ixx(2,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\F1.ixx(2,8): error C2059: синтаксическая ошибка: строка
+C:\Users\gekko\Desktop\lab2\F1.ixx(8,5): error C3378: объявление можно экспортировать только из блока интерфейса модуля
+  f2.cpp
+C:\Users\gekko\Desktop\lab2\f2.cpp(1,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\f2.cpp(4,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\f2.cpp(4,1): error C2086: int module: переопределение
+C:\Users\gekko\Desktop\lab2\f2.cpp(1,1): message : см. объявление "module"
+C:\Users\gekko\Desktop\lab2\f2.cpp(4,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+  F2.ixx
+C:\Users\gekko\Desktop\lab2\F2.ixx(1,1): error C3378: объявление можно экспортировать только из блока интерфейса модуля
+C:\Users\gekko\Desktop\lab2\F2.ixx(1,31): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\F2.ixx(1,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+C:\Users\gekko\Desktop\lab2\F2.ixx(1,34): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\F2.ixx(2,8): error C2143: синтаксическая ошибка: отсутствие ";" перед "строка"
+C:\Users\gekko\Desktop\lab2\F2.ixx(2,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\F2.ixx(2,8): error C2059: синтаксическая ошибка: строка
+C:\Users\gekko\Desktop\lab2\F2.ixx(8,5): error C3378: объявление можно экспортировать только из блока интерфейса модуля
+  f3.cpp
+C:\Users\gekko\Desktop\lab2\f3.cpp(1,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\f3.cpp(1,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+  F3.ixx
+C:\Users\gekko\Desktop\lab2\F3.ixx(1,1): error C3378: объявление можно экспортировать только из блока интерфейса модуля
+C:\Users\gekko\Desktop\lab2\F3.ixx(1,31): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\F3.ixx(1,15): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+C:\Users\gekko\Desktop\lab2\F3.ixx(1,34): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\F3.ixx(3,8): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\F3.ixx(3,8): error C2059: синтаксическая ошибка: :
+C:\Users\gekko\Desktop\lab2\F3.ixx(3,10): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\F3.ixx(9,5): error C3378: объявление можно экспортировать только из блока интерфейса модуля
+  f4.cpp
+C:\Users\gekko\Desktop\lab2\f4.cpp(1,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\f4.cpp(3,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\f4.cpp(3,1): error C2086: int module: переопределение
+C:\Users\gekko\Desktop\lab2\f4.cpp(1,1): message : см. объявление "module"
+C:\Users\gekko\Desktop\lab2\f4.cpp(3,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+  Kotlova1bib21079.cpp
+C:\Users\gekko\Desktop\lab2\Kotlova1bib21079.cpp(1,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\Kotlova1bib21079.cpp(4,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\Kotlova1bib21079.cpp(4,1): error C2086: int module: переопределение
+C:\Users\gekko\Desktop\lab2\Kotlova1bib21079.cpp(1,1): message : см. объявление "module"
+C:\Users\gekko\Desktop\lab2\Kotlova1bib21079.cpp(4,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+C:\Users\gekko\Desktop\lab2\Kotlova1bib21079.cpp(32,73): error C2059: синтаксическая ошибка: ;
+  main.cpp
+C:\Users\gekko\Desktop\lab2\main.cpp(3,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\main.cpp(3,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+C:\Users\gekko\Desktop\lab2\main.cpp(26,33): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(26,62): error C3861: f1: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(27,22): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(27,51): error C3861: f2: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(28,22): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(28,51): error C3861: f3: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(29,24): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(29,53): error C3861: f4: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(35,31): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(35,60): error C3861: f1: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(36,22): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(36,51): error C3861: f2: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(37,22): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(37,51): error C3861: f3: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(38,24): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(38,53): error C3861: f4: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(44,31): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(44,60): error C3861: f1: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(45,22): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(45,51): error C3861: f2: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(46,22): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(46,51): error C3861: f3: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(47,24): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(47,53): error C3861: f4: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(53,31): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(53,60): error C3861: f1: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(54,22): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(54,51): error C3861: f2: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(55,22): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(55,51): error C3861: f3: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(56,24): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(56,53): error C3861: f4: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(62,31): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(62,60): error C3861: f1: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(63,22): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(63,51): error C3861: f2: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(64,22): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(64,51): error C3861: f3: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\main.cpp(65,24): error C2653: RBPO: не является именем класса или пространства имен
+C:\Users\gekko\Desktop\lab2\main.cpp(65,53): error C3861: f4: идентификатор не найден
+  ModuleA.cpp
+C:\Users\gekko\Desktop\lab2\ModuleA.cpp(1,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\ModuleA.cpp(1,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+C:\Users\gekko\Desktop\lab2\ModuleA.cpp(1,26): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\ModuleA.cpp(14,39): error C3861: pow: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleA.cpp(14,59): error C3861: pow: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleA.cpp(14,73): error C2059: синтаксическая ошибка: ;
+  ModuleF1.cpp
+C:\Users\gekko\Desktop\lab2\ModuleF1.cpp(1,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\ModuleF1.cpp(1,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+C:\Users\gekko\Desktop\lab2\ModuleF1.cpp(1,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\ModuleF1.cpp(14,13): error C3861: cos: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleF1.cpp(14,9): error C3861: pow: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleF1.cpp(14,30): error C3861: sin: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleF1.cpp(14,26): error C3861: pow: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleF1.cpp(14,78): error C3861: sin: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleF1.cpp(14,74): error C3861: pow: идентификатор не найден
+  ModuleF2.cpp
+C:\Users\gekko\Desktop\lab2\ModuleF2.cpp(1,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\ModuleF2.cpp(1,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+C:\Users\gekko\Desktop\lab2\ModuleF2.cpp(1,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\ModuleF2.cpp(14,19): error C3861: pow: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleF2.cpp(14,41): error C3861: pow: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleF2.cpp(14,60): error C3861: pow: идентификатор не найден
+  ModuleF3.cpp
+C:\Users\gekko\Desktop\lab2\ModuleF3.cpp(1,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\ModuleF3.cpp(1,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+C:\Users\gekko\Desktop\lab2\ModuleF3.cpp(1,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\ModuleF3.cpp(14,15): error C3861: a: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleF3.cpp(15,47): error C3861: a: идентификатор не найден
+  ModuleF4.cpp
+C:\Users\gekko\Desktop\lab2\ModuleF4.cpp(1,24): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\ModuleF4.cpp(1,8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "Kotlova1bib21079"
+C:\Users\gekko\Desktop\lab2\ModuleF4.cpp(1,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\gekko\Desktop\lab2\ModuleF4.cpp(14,15): error C3861: a: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleF4.cpp(15,21): error C3861: a: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleF4.cpp(15,35): error C3861: a: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleF4.cpp(15,47): error C3861: abs: идентификатор не найден
+C:\Users\gekko\Desktop\lab2\ModuleF4.cpp(15,101): error C3861: a: идентификатор не найден
+  Создание кода...
